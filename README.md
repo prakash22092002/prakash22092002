@@ -1,3 +1,4 @@
+![logo](https://github.com/prakash22092002/prakash22092002/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Prakash Paudel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
